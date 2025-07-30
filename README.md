@@ -43,4 +43,20 @@ employee-salary-prediction/
    ```bash
    git clone https://github.com/your-username/employee-salary-prediction.git
    cd employee-salary-prediction
+
+2. **(Optional) Create and activate a virtual environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate      # On Windows: venv\Scripts\activate
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+   Or
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
+   ```
+4. **Run the notebook**
+   Open ```Salary_Prediction.ipynb``` in Jupyter or VS Code and run all cells step-by-step.
   
