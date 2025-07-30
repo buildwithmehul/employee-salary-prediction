@@ -25,5 +25,22 @@ Given a dataset containing attributes like age, education level, occupation, and
 
 ---
 
+## 📁 Project Structure
 
+<pre>
+employee-salary-prediction/
+├── employee_data.csv # Dataset used
+├── salary_prediction.ipynb # Main Jupyter notebook (EDA, preprocessing, ML models)
+├── .gitignore # Git ignore file
+└── README.md # Project documentation
+</pre>
 
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/employee-salary-prediction.git
+   cd employee-salary-prediction
+  
