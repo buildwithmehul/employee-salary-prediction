@@ -54,9 +54,48 @@ employee-salary-prediction/
    pip install -r requirements.txt
    ```
    Or
+   
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
+   
 4. **Run the notebook**
    Open ```Salary_Prediction.ipynb``` in Jupyter or VS Code and run all cells step-by-step.
-  
+
+---
+
+## 📈 Model Evaluation
+
+| Metric      | Value   |
+|-------------|---------|
+| Accuracy    | 86.67%  |
+| F1 Score    | 0.87    |
+| ROC AUC     | 0.87    |
+
+- Algorithm: Gradient Boosting Classifier
+
+---
+
+## 🔍 Key Learnings
+
+- Handling missing and categorical data  
+- Data preprocessing pipelines  
+- Comparing classification algorithms  
+- Evaluating performance with accuracy, F1 score, ROC AUC  
+- Exporting models for later use  
+
+---
+
+## 👨‍💻 Author
+
+**Mehul Khanna**  
+[LinkedIn](https://www.linkedin.com/in/mehul-khanna-776426288/)
+[GitHub](https://github.com/buildwithmehul)
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+
